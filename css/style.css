@@ -55,7 +55,7 @@ display: flex;
     width: 100%;
      background-color: #6dc6ba;
     padding-bottom: 1%;
-    padding-top: 2%;
+    margin-top: 2%;
    z-index: 9999;
 }
 
@@ -221,3 +221,40 @@ footer{
 .ig{
     padding-left:10%;
     }
+
+@media only screen and (max-width: 900px) {
+    p{
+        font-size: 12pt;
+    }
+    
+    .testa{
+        height: 20%;
+    }
+    
+    .logo{
+        font-size: 24pt;
+    }
+    
+    .link{
+        font-size:16pt;
+    }
+    
+    .testo{
+        font-size: 16pt;
+    }
+    
+    .log{
+
+    }
+    
+    .contatti{
+        font-size:14pt;
+    }
+    
+    .contatti1{
+        font-size:14pt;
+    }
+    
+    
+}
+
